@@ -1,0 +1,72 @@
+[
+  {
+    "file": "hero.jpg",
+    "url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=85",
+    "ok": true
+  },
+  {
+    "file": "chair-white.jpg",
+    "url": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "chair-lounge.jpg",
+    "url": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "chair-soft.jpg",
+    "url": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "sofa-green.jpg",
+    "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "sofa-caramel.jpg",
+    "url": "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "table.jpg",
+    "url": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "living.jpg",
+    "url": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "shelf.jpg",
+    "url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "lamp.jpg",
+    "url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "bedroom.jpg",
+    "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "decor.jpg",
+    "url": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "vase.jpg",
+    "url": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  },
+  {
+    "file": "chair-oak.jpg",
+    "url": "https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&w=900&q=85",
+    "ok": true
+  }
+]
